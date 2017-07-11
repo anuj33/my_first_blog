@@ -1,4 +1,23 @@
 body
 {
-    border: 3px solid black;
+    padding:60px;
+    border: 20px solid #bdc3c7;
+    margin:0 auto;
+    width:70%;
+    font-weight: bold;
+
+
+}
+p{
+    font-family: 'Source Sans Pro', sans-serif;
+    letter-spacing: .1px;
+    font-size: 14px;
+
+}
+.date{
+    color: #4bceff;
+    text-decoration: underline;
+    font-weight: bold;
+    
+
 }
